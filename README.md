@@ -11,7 +11,7 @@ The dataset consists of satellite images stored in two folders:
 - **Grayscale Images**: Located at `E:\Data\WaterBodiesDataset\GreyScaleImage`
 - **Color Images**: Located at `E:\Data\WaterBodiesDataset\ColuredImages`
 
-You can access the dataset from Kaggle: [Water Bodies Dataset](https://www.kaggle.com/)
+You can access the dataset from Kaggle: [Water Bodies Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies))
 
 ## Features
 
