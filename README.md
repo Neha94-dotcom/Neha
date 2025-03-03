@@ -87,8 +87,8 @@ The script will plot the following after model training:
 - TensorFlow for deep learning.
 - OpenCV for image preprocessing.
 - Matplotlib for visualization.
-This research work is part of the project supported by the Department of Science and Technology (DST) under the PURSE 2022 scheme at BIT Mesra and the grant number is SR/PURSE/2022/130(G)
+
 
 
 Feel free to modify the paths or model architecture to suit your dataset and research goals!
-
+This research work is part of the project supported by the Department of Science and Technology (DST) under the PURSE 2022 scheme at BIT Mesra and the grant number is SR/PURSE/2022/130(G)
