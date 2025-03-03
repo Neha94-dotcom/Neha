@@ -1,5 +1,5 @@
 # Neha
-# Enhanced UNet for Segmentation and Pseudo-Colorization of Satellite Images
+# Enhanced UNet for Segmentation and Pseudo-Colorization of Satellite Images(The Visual Computer)
 
 ## Overview
 
@@ -91,4 +91,4 @@ This research work is part of the project supported by the Department of Science
 
 
 Feel free to modify the paths or model architecture to suit your dataset and research goals!
-For the full code, please request access.
+
