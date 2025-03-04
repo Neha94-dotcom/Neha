@@ -93,4 +93,5 @@ The script will plot the following after model training:
 Feel free to modify the paths or model architecture to suit your dataset and research goals!
 This research work is part of the project supported by the Department of Science and Technology (DST) under the PURSE 2022 scheme at BIT Mesra and the grant number is SR/PURSE/2022/130(G)
 
-If you find this code useful, please cite the following paper using the DOI: [DOI on Zenodo](DOI Link 10.5281/zenodo.14959031)
+If you find this code useful, please cite the following paper using the DOI: [DOI on Zenodo](https://doi.org/10.5281/zenodo.14959031)
+
