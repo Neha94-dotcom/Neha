@@ -1,5 +1,5 @@
 # Neha
-# Enhanced UNet for Segmentation and Pseudo-Colorization of Satellite Images(The Visual Computer)
+# Enhanced UNet for Segmentation and Pseudo-Colorization of Satellite Images
 
 ## Overview
 
